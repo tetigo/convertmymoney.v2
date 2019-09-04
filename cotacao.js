@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="container">
-    <div><a href="index.html"><img src="logo.png" alt="Convert My Money" class="img-responsive"></a></div>
+    <div><a href="index.js"><img src="logo.png" alt="Convert My Money" class="img-responsive"></a></div>
     <h1>Cotação</h1>
     <p class="result">
         Cotação <span id="cotacao"></span> na qtd <span id="qtd"></span> é igual a <span id="conversao"></span>
