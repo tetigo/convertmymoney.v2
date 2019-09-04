@@ -1,13 +1,13 @@
-### [ConvertMyMoney](https://convertymymoney.tetigo.now.sh "Link do Site")
+### [ConvertMyMoneyV2](https://convertmymoneyv2.tetigo.now.sh/ "Link do Site")
 
 ###### Objetivo
 
 App simples de conversão de dólar pra real. Versão static.
 
-É feito CI/CD entre [GitHub](https://github.com/tetigo/convertymymoney "GitHub") e [Zeit](https://zeit.co/tetigo/convertymymoney "Zeit").
+É feito CI/CD entre [GitHub](https://github.com/tetigo/convertymymoney "GitHub") e [Zeit](https://convertmymoneyv2.tetigo.now.sh/ "Zeit").
 
 
-[Link do Site](https://convertymymoney.tetigo.now.sh "Link do Projeto")
+[Link do Site](https://convertmymoneyv2.tetigo.now.sh/ "Link do Projeto")
 
 ------------
 
