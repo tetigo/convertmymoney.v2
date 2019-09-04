@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "serve": "^10.1.2"
-  },
-  "scripts": {
-    "start": "serve"
-  }
-}
