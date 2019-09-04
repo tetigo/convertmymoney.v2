@@ -2,11 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "test.js",
-      "use": "@now/node"
-    },
-    {
-      "src": "index.html",
+      "src": "index.js",
       "use": "@now/static"
     }
   ]
