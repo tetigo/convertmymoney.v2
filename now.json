@@ -2,9 +2,7 @@
   "version": 2,
   "builds": [
     { "src": "*.html", "use": "@now/static" },
-    { "src": "*.js", "use": "@now/node" },
-    { "src": "*.png", "use": "@now/png" }
-
+    { "src": "*.js", "use": "@now/node" }
   ],
   
   "routes": [
